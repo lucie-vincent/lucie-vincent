@@ -3,7 +3,7 @@
 Je suis actuellement en formation "Remise à Niveau Numérique" chez Elan Formation.
 Mon parcours est jalonné de projets personnels et de travaux réalisés au cours de ma formation, que je partage avec enthousiasme ici.
 
-## 🚀 Expérience de stack technique
+## 🚀 Expériences de stack technique
 
 - Front-end : HTML5, CSS3, JavaScript, jQuery, Bootstrap
 * Back-end : PHP, Python, Flask, C#
