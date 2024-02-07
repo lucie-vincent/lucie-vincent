@@ -5,9 +5,9 @@ Mon parcours est jalonné de projets personnels et de travaux réalisés au cour
 
 ## 🚀 Expérience de stack technique
 
--Front-end : HTML5, CSS3, JavaScript, jQuery, Bootstrap
--Back-end : PHP, Python, Flask, C#
--Maquette : Figma
+- Front-end : HTML5, CSS3, JavaScript, jQuery, Bootstrap
+* Back-end : PHP, Python, Flask, C#
++ Maquette : Figma
 
 ## 📚 Formation
 
@@ -15,6 +15,7 @@ Elan Formation - Remise à Niveau Numérique
 
 ## 📫 Comment me joindre
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucie-vincent-85649a1a3)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucie-vincent-85649a1a3) (www.linkedin.com/in/lucie-vincent-85649a1a3) 
+
 
 Merci de visiter mon profil !
