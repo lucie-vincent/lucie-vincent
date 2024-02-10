@@ -15,7 +15,7 @@ Elan Formation - Remise à Niveau Numérique
 
 ## 📫 Comment me joindre
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucie-vincent-85649a1a3) (www.linkedin.com/in/lucie-vincent-85649a1a3) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucie-vincent-85649a1a3)
 
 
 Merci de visiter mon profil !
