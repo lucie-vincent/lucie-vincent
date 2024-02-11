@@ -1,4 +1,4 @@
-# Bienvenue sur mon profil GitHub ! 👋
+# Bienvenue sur mon profil GitHub ! 🌻
 
 Je suis actuellement en formation "Remise à Niveau Numérique" chez Elan Formation.
 Mon parcours est jalonné de projets personnels et de travaux réalisés au cours de ma formation, que je partage avec enthousiasme ici.
@@ -13,7 +13,7 @@ Mon parcours est jalonné de projets personnels et de travaux réalisés au cour
 
 Elan Formation - Remise à Niveau Numérique
 
-## 📫 Comment me joindre
+## ✉️ Comment me joindre
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucie-vincent-85649a1a3)
 
