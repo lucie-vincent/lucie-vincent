@@ -8,7 +8,7 @@ Mon parcours est jalonné de projets personnels et de travaux réalisés au cour
 - Front-end : HTML5, CSS3, JavaScript, jQuery, Bootstrap, Bootswatch
 * Back-end : PHP, Python, Flask, C#
 + Maquette : Figma, Draw.io
-+ Base de données : SQL, MySQL
+- Base de données : SQL, MySQL
 
 ## 📚 Formation
 
