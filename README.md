@@ -1,17 +1,18 @@
 # Bienvenue sur mon profil GitHub ! 🌻
 
-Je suis actuellement en formation "Remise à Niveau Numérique" chez Elan Formation.
+Je prépare actuellement le Titre Professionnel Développeur Web et Web Mobile (niveau 5) chez Elan Formation.
 Mon parcours est jalonné de projets personnels et de travaux réalisés au cours de ma formation, que je partage avec enthousiasme ici.
 
 ## 🚀 Expériences de stack technique
 
-- Front-end : HTML5, CSS3, JavaScript, jQuery, Bootstrap
+- Front-end : HTML5, CSS3, JavaScript, jQuery, Bootstrap, Bootswatch
 * Back-end : PHP, Python, Flask, C#
-+ Maquette : Figma
++ Maquette : Figma, Draw.io
++ Base de données : SQL, MySQL
 
 ## 📚 Formation
 
-Elan Formation - Remise à Niveau Numérique
+Elan Formation - TP : Développeur Web et Web Mobile
 
 ## ✉️ Comment me joindre
 
