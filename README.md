@@ -5,10 +5,7 @@ Mon parcours est jalonné de projets personnels et de travaux réalisés au cour
 
 ## 🚀 Expériences de stack technique
 
-- Front-end : HTML5, CSS3, JavaScript, jQuery, Bootstrap, Bootswatch
-* Back-end : PHP, Symfony, C#
-+ Maquette : Figma, Draw.io
-- Base de données : SQL, MySQL
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,symfony,cs,figma,mysql)](https://skillicons.dev)
 
 ## 📚 Formation
 
